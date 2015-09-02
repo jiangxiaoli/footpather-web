@@ -215,6 +215,19 @@ section.success a.active {
   margin: 40px;
 }
 
+.iphone {
+  background-image: url("../images/iphone.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 500px;
+}
+
+iframe {
+  margin-top: 80px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
 
 .btn-outline {
   margin-top: 15px;
